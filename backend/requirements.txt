@@ -1,7 +1,8 @@
-tensorflow
-opencv-python
-mediapipe
-flask
 fastapi
 uvicorn
+opencv-python
+mediapipe
 python-multipart
+tensorflow
+numpy
+pillow
