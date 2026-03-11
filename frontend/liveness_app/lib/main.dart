@@ -724,7 +724,7 @@ class _MainScreenState extends State<MainScreen> with TickerProviderStateMixin {
   }
 
   Widget _buildGalleryTab() {
-    return const Center(
+    return Center(
       child: Padding(
         padding: EdgeInsets.all(20),
         child: Column(
